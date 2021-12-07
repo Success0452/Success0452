@@ -6,8 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on HNG project(ZuriChat)
-
+- 🔭 I’m currently on a personal project
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
 - 👨‍💻 All of my projects are available in my repository
