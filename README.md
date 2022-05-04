@@ -7,7 +7,8 @@
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m currently on a personal project
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+
+- 👯  I’m currently into block chain, with the use of Meta mask, Web3, and solidity
 
 - 👨‍💻 All of my projects are available in my repository
 
