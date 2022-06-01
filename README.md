@@ -1,7 +1,7 @@
 
 
 <h3 align="center">I'm a passionate Software Developer</h3>
-<h4 align="center">have experience in developing mobile applications, creating api for backend development, and writing smart contracts for web3 Integration</h4>
+<h4 align="center">I have experience in developing mobile applications, creating api for backend development, and writing smart contracts for web3 Integration</h4>
 
 
 ## 🙋‍♂️ About Me
@@ -14,7 +14,7 @@
 
 - 👨‍💻 most of my practice projects are available in my repository except some excluded once
 
-- 📫 How to reach me **olatundesuccess54@gmail.com** **08147330326**
+- 📫 How to reach me **olatundesuccess54@gmail.com**
 
 - ⚡ Fun fact **I play games and want to learn more.**
 
