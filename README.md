@@ -1,6 +1,7 @@
 
 
-<h3 align="center">I'm a passionate Software Developer( Android Native || Flutter || Solidity Dev).</h3>
+<h3 align="center">I'm a passionate Software Developer</h3>
+<h4 align="center">have experience in developing mobile applications, creating api for backend development, and writing smart contracts for web3 Integration</h4>
 
 
 ## 🙋‍♂️ About Me
@@ -9,9 +10,11 @@
 
 - 👯  I’m currently into block chain, with the use of Meta mask, Web3, and solidity
 
-- 👨‍💻 All of my projects are available in my repository
+- 👯  Readily availiable to take up your mobile development project
 
-- 📫 How to reach me **olatundesuccess54@gmail.com**
+- 👨‍💻 most of my practice projects are available in my repository except some excluded once
+
+- 📫 How to reach me **olatundesuccess54@gmail.com** **08147330326**
 
 - ⚡ Fun fact **I play games and want to learn more.**
 
@@ -33,7 +36,7 @@
 
 <p align="center">
     <a href="https://github.com/Success0452/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Success0452&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Olatunde Success streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Success0452&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
