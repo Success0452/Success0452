@@ -1,7 +1,7 @@
 
 
 <h3 align="center">I'm Success, a Software Developer</h3>
-<h4 align="center">I have experience in developing mobile applications, creating api for backend development</h4>
+<h4 align="center"></h4>
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
