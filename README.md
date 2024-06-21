@@ -28,7 +28,9 @@
 <br/>
 <br/>
 
-<a href="https://github.com/Success0452/github-readme-activity-graph"><img alt="Olatunde Success Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Success0452&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+# 📊 GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=Success0452&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Success0452&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <br/>
 <br/>
