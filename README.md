@@ -12,15 +12,6 @@
 
 <br/>
 
-<p align="center">
-    <a href="https://github.com/Success0452/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Olatunde Success streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Success0452&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
-
-<br/>
-<br/>
-
 ## Connect with me:
 <p align="left">
 
