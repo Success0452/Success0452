@@ -8,13 +8,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 👯  Readily availiable to take up your project for development
-
-- 👨‍💻 some of my practice projects are available in my repository
-
 - 📫 How to reach me **olatundesuccess54@gmail.com**
-
-- ⚡ Fun fact **I watch football games and always want to learn more.**
 
 <br/>
 
